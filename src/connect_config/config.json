@@ -1,0 +1,11 @@
+{
+    "mongodb_uri": "mongodb://admin:passw0rd@10.136.218.207:8017/",
+    "mongodb_db": "manufacturing_db",
+    "mongodb_collection": "sensor_data",
+    "clickhouse_host": "10.136.218.207",
+    "clickhouse_port": "8123",
+    "clickhouse_user": "default",
+    "clickhouse_password": "default",
+    "clickhouse_database": "De_Training",
+    "clickhouse_table": "Sensor_Data"  
+}

@@ -1,0 +1,10 @@
+venv/
+data/
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+test_reports/
+.pytest_cache/
+*.env
+*.config.json
